@@ -12,18 +12,18 @@ O - new line above cursor
 
 ## Motion 
 ------------------------------
-h - move left
-j - move down
-k - move up
-l - move right
-s - delete character under cursor and enter insert mode
-^ - move to the first non-blank character of a line
-$ - go to end of line without going into insert mode
-0 - go to beginning of line without going into insert mode
-H - go to top of current window
-zz - center text on screen
-M - go to middle of window
-G - move to the last line of the file
+h - move left  
+j - move down  
+k - move up  
+l - move right  
+s - delete character under cursor and enter insert mode  
+^ - move to the first non-blank character of a line  
+$ - go to end of line without going into insert mode  
+0 - go to beginning of line without going into insert mode  
+H - go to top of current window  
+zz - center text on screen  
+M - go to middle of window  
+G - move to the last line of the file  
 gg - go to the first line in the file (can also put a number in front to go to that line ex. 15gg will take you to line 15.)
 w - move to start of next word
 W - move to start of next WORD
