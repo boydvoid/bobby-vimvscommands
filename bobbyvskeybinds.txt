@@ -1,0 +1,19 @@
+## Alpha VSCode Keybinds
+------------------------------
+
+# Moving 
+------------------------------
+alt+j - move left
+alt+i - move up
+alt+k - move down
+alt+l - move right
+
+# Selecting
+------------------------------
+shift + alt + j - select to the left
+shift + alt + k - select to the right
+shift + alt + i - select up
+shift + alt + j - select down
+ctrl + shift + j - select whole word to the left
+ctrl + shift + j - select whole word to the right
+ctrl + d - select word while inside, and multi-select *this is a default keybind 
