@@ -17,8 +17,8 @@ j - move down
 k - move up
 l - move right
 s - delete character under cursor and enter insert mode
-^ - move to the first non-blank character of a line
-$ - go to end of line without going into insert mode
+^ - move to the first non-blank character of a line (need to remap)
+$ - go to end of line without going into insert mode (need to remap)
 0 - go to beginning of line without going into insert mode
 H - go to top of current window
 zz - center text on screen
