@@ -1,19 +1,48 @@
-## Alpha VSCode Keybinds
+## Bobby VSCode Keybinds
 ------------------------------
 
 # Moving 
 ------------------------------
-alt+j - move left
-alt+i - move up
-alt+k - move down
-alt+l - move right
+ctrl+j - move left
+ctrl+i - move up
+ctrl+k - move down
+ctrl+l - move right
+
+# Block Travel
+------------------------------
+alt + k - move down block
+alt + i - move up block 
+shift + alt + k - select block down
+shift + alt + i - select block up
 
 # Selecting
 ------------------------------
-shift + alt + j - select to the left
-shift + alt + k - select to the right
-shift + alt + i - select up
-shift + alt + j - select down
-ctrl + shift + j - select whole word to the left
-ctrl + shift + j - select whole word to the right
-ctrl + d - select word while inside, and multi-select *this is a default keybind 
+shift + ctrl + j - select whole word to left
+shift + ctrl + l - select whole word to right
+ctrl + alt + l - select to the right 
+ctrl + alt + j - select to the left
+ctrl + alt + i -select up
+ctrl + alt + k -select down
+ctrl + shift + k -select down
+ctrl + shift + i -select up
+alt + j - move word to the left
+alt + l - move whole word to the right
+ctrl + d - select word while inside, and multi-select *this is a default keybind
+
+#  Misc.
+-----------------------------
+ctrl + g - go to a specific line
+ctrl + shift + space - escape
+ctrl + shift + alt + k - duplicate line down ;
+ctrl + enter - newline below
+ctrl + shift + enter - newline above
+ctrl + shift + A - move cursor to end of line
+ctrl + shift + alt + A - beginning of the line 
+
+# Deleting
+-----------------------------
+ctrl + shift + comma - delete line
+ctrl + comma - delete word left
+ctrl + alt + comma - delet word right
+
+ctrl + f4 - close tab
