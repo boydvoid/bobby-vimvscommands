@@ -1,7 +1,7 @@
 ## Useful Vim commands that I should know
 -----------------------------------------------------
 
-Insert Mode
+# Insert Mode
 ------------------------------
 i - insert infront of the selected character
 I - insert at the front of the line
@@ -10,7 +10,7 @@ A - insert at the end of the line
 o - new line below cursor
 O - new line above cursor
 
-Motion 
+# Motion 
 ------------------------------
 h - move left
 j - move down
@@ -32,7 +32,7 @@ E - move to end of next WORD (skips whitespace)
 b - move to front of last word
 -- you can do stuff like 5w, which will move forward 5 words
 
-Search and Find
+# Search and Find
 ------------------------------
 f - find character ex. "fa" will find the next and hover over next a *inline
 t - find character ex. "ta" will find the next a and put the cursor before it *inline
@@ -41,7 +41,7 @@ t - find character ex. "ta" will find the next a and put the cursor before it *i
 n - go down to the next word searched
 N - go up to the next word searched
 
-Copy, Cut and Paste
+# Copy, Cut and Paste
 ------------------------------
 yy- copy full line (copy multiple lines with numbers ex. 3yy)
 yw- copy word
@@ -51,7 +51,7 @@ p - paste after cursor
 P - paste before cursor
 ctrl-c works also
 
-Selecting
+# Selecting
 ------------------------------
 ctrl-L select multiple instances (multi cursor mode)
 v - visual select mode
