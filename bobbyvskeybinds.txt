@@ -3,15 +3,15 @@
 
 # Moving 
 ------------------------------
-ctrl+j - move left
-ctrl+i - move up
-ctrl+k - move down
-ctrl+l - move right
+alt+j - move left
+alt+i - move up
+alt+k - move down
+alt+l - move right
 
 # Block Travel
 ------------------------------
-alt + k - move down block
-alt + i - move up block 
+ctrl + k - move down block
+ctrl + i - move up block 
 shift + alt + k - select block down
 shift + alt + i - select block up
 
@@ -43,6 +43,6 @@ ctrl + shift + alt + A - beginning of the line
 -----------------------------
 ctrl + shift + comma - delete line
 ctrl + comma - delete word left
-ctrl + alt + comma - delet word right
+ctrl + alt + comma - delete word right
 
 ctrl + f4 - close tab
